@@ -36,3 +36,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 1. Add Shared/directives and services
 2. Add alter-ego-directive file
 3. Add hero.service
+4. Add forbidden-name.direcive.ts
+5. Add identity-revealed.directive.ts
