@@ -28,3 +28,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   </body>
 </html>
 ```
+
+### Task: Add two components ```<app-hero-form-reactive>``` and ```<app-hero-form-template>```
