@@ -6,7 +6,7 @@ import {
   ValidationErrors
 } from '@angular/forms';
 import { catchError, map } from 'rxjs/operators';
-import { HeroesService } from './heroes.service';
+import { HeroesService } from '../Shared/hero.service';
 import { Observable, of } from 'rxjs';
 
 @Injectable({ providedIn: 'root' })
