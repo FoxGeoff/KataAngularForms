@@ -30,3 +30,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ```
 
 ### Task: Add two components ```<app-hero-form-reactive>``` and ```<app-hero-form-template>```
+
+### Task: Add Reactive code and template
+
+1. Add Shared/directives and services
+2. Add alter-ego-directive file
