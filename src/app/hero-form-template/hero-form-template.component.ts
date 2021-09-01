@@ -12,4 +12,8 @@ export class HeroFormTemplateComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  powers = ['Really Smart', 'Super Flexible', 'Weather Changer'];
+
+  hero = {name: 'Dr.', alterEgo: 'Dr. What', power: this.powers[0]};
+
 }
