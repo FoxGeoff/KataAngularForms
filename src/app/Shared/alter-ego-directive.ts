@@ -9,7 +9,9 @@ import { catchError, map } from 'rxjs/operators';
 import { HeroesService } from '../Shared/hero.service';
 import { Observable, of } from 'rxjs';
 
-@Injectable({ providedIn: 'root' })
+@Injectable({
+  providedIn: 'root'
+})
 export class UniqueAlterEgoValidator implements AsyncValidator {
   constructor(private heroesService: HeroesService) {}
 
